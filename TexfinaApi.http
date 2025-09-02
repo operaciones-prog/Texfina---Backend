@@ -1,0 +1,6 @@
+@TexfinaApi_HostAddress = http://localhost:5116
+
+GET {{TexfinaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
