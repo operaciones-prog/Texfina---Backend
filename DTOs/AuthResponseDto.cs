@@ -12,7 +12,7 @@ namespace TexfinaApi.DTOs
 
     public class UserInfoDto
     {
-        public int IdUsuario { get; set; }
+        public int Id { get; set; }
         public string Username { get; set; } = string.Empty;
         public string? Email { get; set; }
         public string? Rol { get; set; }
@@ -20,5 +20,12 @@ namespace TexfinaApi.DTOs
         public bool Activo { get; set; }
         public DateTime? LastLogin { get; set; }
         public List<string> Permisos { get; set; } = new List<string>();
+        
+        // Mantener para compatibilidad interna del backend
+        public int IdUsuario 
+        { 
+            get => Id; 
+            set => Id = value; 
+        }
     }
 } 

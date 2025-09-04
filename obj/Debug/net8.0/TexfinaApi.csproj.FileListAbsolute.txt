@@ -1,275 +1,403 @@
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.exe
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.AssemblyReference.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.AssemblyInfoInputs.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.AssemblyInfo.cs
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.CoreCompileInputs.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\appsettings.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.staticwebassets.endpoints.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.deps.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.runtimeconfig.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\TexfinaApi.pdb
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Humanizer.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\scopedcss\bundle\TexfinaApi.styles.css
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.Up2Date
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\refint\TexfinaApi.dll
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.pdb
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\TexfinaApi.genruntimeconfig.cache
-C:\Users\gianx\Desktop\TexfinaBackend\Texfina Api\obj\Debug\net8.0\ref\TexfinaApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\appsettings.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.staticwebassets.endpoints.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.exe
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.deps.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.runtimeconfig.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\TexfinaApi.pdb
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Humanizer.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.AssemblyReference.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.AssemblyInfoInputs.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.AssemblyInfo.cs
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.CoreCompileInputs.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.sourcelink.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\scopedcss\bundle\TexfinaApi.styles.css
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.csproj.Up2Date
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\refint\TexfinaApi.dll
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.pdb
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\TexfinaApi.genruntimeconfig.cache
-C:\Users\gianx\Desktop\DevTexfina\Texfina Api\obj\Debug\net8.0\ref\TexfinaApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.exe
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.AssemblyReference.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.AssemblyInfoInputs.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.AssemblyInfo.cs
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.CoreCompileInputs.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/appsettings.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.staticwebassets.endpoints.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.deps.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.runtimeconfig.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/TexfinaApi.pdb
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Humanizer.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/scopedcss/bundle/TexfinaApi.styles.css
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.Up2Date
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/refint/TexfinaApi.dll
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.pdb
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/TexfinaApi.genruntimeconfig.cache
+C:/Users/gianx/Desktop/TexfinaBackend/Texfina Api/obj/Debug/net8.0/ref/TexfinaApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/appsettings.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.staticwebassets.endpoints.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.exe
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.deps.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.runtimeconfig.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/TexfinaApi.pdb
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Humanizer.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.AssemblyReference.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.AssemblyInfoInputs.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.AssemblyInfo.cs
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.CoreCompileInputs.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.sourcelink.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/scopedcss/bundle/TexfinaApi.styles.css
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.csproj.Up2Date
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/refint/TexfinaApi.dll
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.pdb
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/TexfinaApi.genruntimeconfig.cache
+C:/Users/gianx/Desktop/DevTexfina/Texfina Api/obj/Debug/net8.0/ref/TexfinaApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/appsettings.Development.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/appsettings.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/appsettings.Production.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi.staticwebassets.endpoints.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi.deps.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi.runtimeconfig.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/TexfinaApi.pdb
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Humanizer.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Npgsql.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.CodeDom.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.csproj.AssemblyReference.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.AssemblyInfoInputs.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.AssemblyInfo.cs
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.csproj.CoreCompileInputs.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.sourcelink.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/scopedcss/bundle/TexfinaApi.styles.css
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.csproj.Up2Date
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/refint/TexfinaApi.dll
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.pdb
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/TexfinaApi.genruntimeconfig.cache
+/Users/gian/Desktop/Proyectos/Ebim/Texfina/Texfina-Backend/obj/Debug/net8.0/ref/TexfinaApi.dll

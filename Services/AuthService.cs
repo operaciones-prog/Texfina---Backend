@@ -46,7 +46,7 @@ namespace TexfinaApi.Services
                 // Temporal: simplificar para testing
                 var userInfo = new UserInfoDto
                 {
-                    IdUsuario = usuario.IdUsuario,
+                    Id = usuario.IdUsuario,
                     Username = usuario.Username,
                     Email = usuario.Email,
                     Rol = usuario.IdRol ?? "USER"
@@ -184,10 +184,10 @@ namespace TexfinaApi.Services
 
             var claims = new List<Claim>
             {
-                new(ClaimTypes.NameIdentifier, user.IdUsuario.ToString()),
+                new(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new(ClaimTypes.Name, user.Username),
                 new("username", user.Username),
-                new("userId", user.IdUsuario.ToString())
+                new("userId", user.Id.ToString())
             };
 
             if (!string.IsNullOrEmpty(user.Email))
@@ -237,7 +237,7 @@ namespace TexfinaApi.Services
 
                 return new UserInfoDto
                 {
-                    IdUsuario = usuario.IdUsuario,
+                    Id = usuario.IdUsuario,
                     Username = usuario.Username,
                     Email = usuario.Email,
                     Rol = usuario.Rol?.Nombre,
