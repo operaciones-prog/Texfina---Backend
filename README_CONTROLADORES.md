@@ -9,7 +9,7 @@ El sistema **Texfina API** es una solución completa de gestión de inventario d
 ## 🏗️ Arquitectura del Sistema
 
 - **Backend**: ASP.NET Core 8.0 Web API
-- **Base de Datos**: SQL Server con Entity Framework Core
+- **Base de Datos**: PostgreSQL con Entity Framework Core (Neon Database)
 - **Autenticación**: JWT Bearer Token
 - **Logging**: ILogger nativo de .NET
 - **Documentación**: Swagger/OpenAPI
