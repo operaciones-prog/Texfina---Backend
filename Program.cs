@@ -8,9 +8,9 @@ using TexfinaApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurar Entity Framework
+// Configurar Entity Framework con PostgreSQL
 builder.Services.AddDbContext<TexfinaDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configurar JWT - Usar SecretKey para Docker
 var jwtSettings = builder.Configuration.GetSection("Jwt");
